@@ -1,0 +1,16 @@
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\Parte 3.exe
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\Parte 3.deps.json
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\Parte 3.runtimeconfig.json
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\Parte 3.runtimeconfig.dev.json
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\Parte 3.dll
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\ref\Parte 3.dll
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\bin\Debug\net5.0\Parte 3.pdb
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.csproj.AssemblyReference.cache
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.AssemblyInfoInputs.cache
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.AssemblyInfo.cs
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.csproj.CoreCompileInputs.cache
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.dll
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\ref\Parte 3.dll
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.pdb
+C:\Users\Miguelangel\Desktop\Examen\Parte 3\obj\Debug\net5.0\Parte 3.genruntimeconfig.cache
